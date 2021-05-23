@@ -1,0 +1,19 @@
+.opcoesCentro{
+    width:100%;
+    height:768px; 
+    
+}
+
+.opcoes1Centro{
+    width:100%;
+    height:768px;
+}
+
+.logo{
+	opacity:0.65;
+	-moz-opacity: 0.65;
+	filter: alpha(opacity=65);
+	
+    width:100%;
+
+}
